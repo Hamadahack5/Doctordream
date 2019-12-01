@@ -1,0 +1,4 @@
+source 'https://rubygems.org'
+gem '[nameofgem]'
+gem '[nameofgem]', '~>[versionofgem]'
+gem '[nameofgem]', :require => '[spec]'
